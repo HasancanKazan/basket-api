@@ -1,0 +1,12 @@
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api.Core\bin\Debug\net5.0\basket-api.Core.deps.json
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api.Core\bin\Debug\net5.0\basket-api.Core.dll
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api.Core\bin\Debug\net5.0\basket-api.Core.pdb
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api.Core\obj\Debug\net5.0\basket-api.Core.csproj.AssemblyReference.cache
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api.Core\obj\Debug\net5.0\basket-api.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api.Core\obj\Debug\net5.0\basket-api.Core.AssemblyInfoInputs.cache
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api.Core\obj\Debug\net5.0\basket-api.Core.AssemblyInfo.cs
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api.Core\obj\Debug\net5.0\basket-api.Core.csproj.CoreCompileInputs.cache
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api.Core\obj\Debug\net5.0\basket-api.Core.dll
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api.Core\obj\Debug\net5.0\refint\basket-api.Core.dll
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api.Core\obj\Debug\net5.0\basket-api.Core.pdb
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api.Core\obj\Debug\net5.0\ref\basket-api.Core.dll
