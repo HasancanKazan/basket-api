@@ -1,3 +1,5 @@
+using basket_api.Core.Redis;
+using basket_api.Manager;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -31,6 +33,9 @@ namespace basket_api
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "basket_api", Version = "v1" });
             });
+
+            services.AddTransient<IBasketManager, BasketManager>();
+            services.AddTransient<IRedisManager, RedisManager>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Model\DTOs\" />
+    <ProjectReference Include="..\basket-api.Core\basket-api.Core.csproj" />
   </ItemGroup>
 
 </Project>

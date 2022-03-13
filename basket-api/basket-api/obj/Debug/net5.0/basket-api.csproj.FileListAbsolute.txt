@@ -26,3 +26,17 @@ C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\obj\Deb
 C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\obj\Debug\net5.0\basket-api.pdb
 C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\obj\Debug\net5.0\basket-api.genruntimeconfig.cache
 C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\obj\Debug\net5.0\ref\basket-api.dll
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\bin\Debug\net5.0\basket-api.Core.dll
+C:\Users\hasancan.kazan\Desktop\basket-application\basket-api\basket-api\bin\Debug\net5.0\basket-api.Core.pdb
