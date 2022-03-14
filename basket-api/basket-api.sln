@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "basket-api", "basket-api\basket-api.csproj", "{4B9494E2-95FD-43CC-8482-D60FDFFD4AAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basket-api.Core", "basket-api.Core\basket-api.Core.csproj", "{619E1BFF-2681-401E-9B8F-EC0E998A5EAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "basket-api.Core", "basket-api.Core\basket-api.Core.csproj", "{619E1BFF-2681-401E-9B8F-EC0E998A5EAB}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{6A269F79-9A6A-4368-88B7-0AFEC20470F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{619E1BFF-2681-401E-9B8F-EC0E998A5EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{619E1BFF-2681-401E-9B8F-EC0E998A5EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{619E1BFF-2681-401E-9B8F-EC0E998A5EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A269F79-9A6A-4368-88B7-0AFEC20470F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A269F79-9A6A-4368-88B7-0AFEC20470F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A269F79-9A6A-4368-88B7-0AFEC20470F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A269F79-9A6A-4368-88B7-0AFEC20470F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

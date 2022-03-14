@@ -1,0 +1,28 @@
+version: '3.4'
+
+services:
+  basket-api:
+    restart: always
+    build:
+      context: .
+      dockerfile: basket-api/Dockerfile
+
+  redis:
+    image: redis
+    restart: always
+    ports:
+      - 6379:6379
+
+  products:
+    build:
+      context: ../products-api
+    restart: always
+    ports:
+      - 8001:8001
+
+  stocks:
+    build:
+      context: ../stocks-api
+    restart: always
+    ports:
+      - 8002:8002

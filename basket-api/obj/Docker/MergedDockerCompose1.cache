@@ -1,0 +1,51 @@
+services:
+  basket-api:
+    build:
+      context: C:\Users\hasancan.kazan\Desktop\basket-application\basket-api
+      dockerfile: basket-api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+    restart: always
+  products:
+    build:
+      context: C:\Users\hasancan.kazan\Desktop\basket-application\products-api
+      dockerfile: Dockerfile
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 8001
+      published: 8001
+      protocol: tcp
+    restart: always
+  redis:
+    image: redis
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 6379
+      published: 6379
+      protocol: tcp
+    restart: always
+  stocks:
+    build:
+      context: C:\Users\hasancan.kazan\Desktop\basket-application\stocks-api
+      dockerfile: Dockerfile
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 8002
+      published: 8002
+      protocol: tcp
+    restart: always
+networks:
+  default:
+    name: dockercompose4325364324016242992_default

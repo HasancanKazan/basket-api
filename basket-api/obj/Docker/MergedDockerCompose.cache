@@ -1,0 +1,17 @@
+services:
+  basket-api:
+    build:
+      context: C:\Users\hasancan.kazan\Desktop\basket-application\basket-api
+      dockerfile: basket-api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: basketapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose4325364324016242992_default
